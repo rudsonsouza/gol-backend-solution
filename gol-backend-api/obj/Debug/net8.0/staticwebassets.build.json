@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HOaaGyE8BJIinIzE8TqS61iG3vUy/VX+F3Yd+2Qw3oQ=",
+  "Source": "gol-backend-api",
+  "BasePath": "_content/gol-backend-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
